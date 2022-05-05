@@ -8,7 +8,7 @@ Vending machine is very simple in use.
 3. Put the money in. Coin and bill are accepted
 4. Machine will automatically calculate time proportionally to money put in
 5. Lights turn on
-7. Display will show an remaining time
+6. Display will show remaining time
 
 This vending machine is connected to existing electrical switchboard with manual switches. Vending machine relays are connected in parallel with the relays of the manual switches in the electrical switchboard.
 Bill acceptor accept 10, 20, 50, 100 nominals giving 1, 2, 5, 10 sharp high impulses 100ms lenght
