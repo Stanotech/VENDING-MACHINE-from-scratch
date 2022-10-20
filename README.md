@@ -11,9 +11,9 @@ Vending machine is very simple in use.
 6. Display shows remaining time
 
 This vending machine is connected to existing electrical switchboard with manual switches. Vending machine relays are connected in parallel with the relays of the manual switches in the electrical switchboard.
-Bill acceptor accept 10, 20, 50, 100 nominals giving 1, 2, 5, 10 sharp high impulses 100ms lenght
-Coin acceptor accept 1, 2, 5 nominals giving 1, 2, 5 sharp high impulses 100ms lenght
-Signals are filtered, counted
+Bill acceptor accept 10, 20, 50, 100 nominals giving 1, 2, 5, 10 sharp high impulses 100ms lenght.
+Coin acceptor accept 1, 2, 5 nominals giving 1, 2, 5 sharp high impulses 100ms lenght.
+Signals are filtered, counted and recalculated to time.
 
 Vending machine has been working flawlessly for a year giving allot of evening entertainment :)
 Location- Poland, Poznań, Golęcińska 9
