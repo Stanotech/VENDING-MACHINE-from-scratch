@@ -1,5 +1,6 @@
 # VENDING-MACHINE-from-scratch
 Vending machine for switching on lights on football and basketball court.
+This machine is entirely designed and created by me.
 
 
 ![1](https://user-images.githubusercontent.com/48159338/215746896-6e312e87-8baf-4af5-8eaf-87793d23bbf0.jpg)
@@ -27,7 +28,7 @@ What you need to build this vending machine ?
 - two relays like jqc-3ff-s-z
 - coin acceptor (you will find it on aliexpress. Check the photo folder to see how it looks)
 - NV9 bill acceptor
-- waterproof casing
+- waterproof casing- this one is US military case for something. I have bought it on some dumb. 
 - additionaly just in case I made rain-proof front of coin acceptor. I have attached g-code for 3d printing it. 
 - two waterproof buttons
 - some wires :)
