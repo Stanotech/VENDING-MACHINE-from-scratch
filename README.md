@@ -1,6 +1,9 @@
 # VENDING-MACHINE-from-scratch
 Vending machine for switching on lights on football and basketball court.
 
+
+![1](https://user-images.githubusercontent.com/48159338/215746896-6e312e87-8baf-4af5-8eaf-87793d23bbf0.jpg)
+
 This vending machine is projected for switching lights on two courts. Those courts have different pricing. 
 Vending machine is very simple in use. 
 1. Select the court on which you want to switch on lights
