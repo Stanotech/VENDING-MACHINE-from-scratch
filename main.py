@@ -1,5 +1,5 @@
 import math
-# stage 1 - removing unnessesery nozzle moves
+# stage 1- removing unnessesery nozzle moves
 
 a_file = open("org.gcode", "r")
 lines = a_file.readlines()
