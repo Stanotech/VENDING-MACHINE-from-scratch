@@ -1,5 +1,5 @@
 # VENDING-MACHINE-from-scratch
-Vending machine for switching on lights on football and basketball court.
+Vending machine for switching on lights on football and basketball court after payment.
 This machine is entirely designed and created by me.
 
 
